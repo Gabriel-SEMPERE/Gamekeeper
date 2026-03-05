@@ -1,0 +1,9 @@
+{
+    "name": "display/gamekeeper",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
